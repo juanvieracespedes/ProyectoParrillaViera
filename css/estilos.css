@@ -181,10 +181,22 @@ h2{text-align: center;
 
 .BotonPedidoUbi{
     grid-template-areas: footerubi;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .ContenedorLogoUbi{
     margin-left: 0%;
     margin-right: 0%;
     background-color: black;
     margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.BotonesUbi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
